@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
     <div class="hero-body">
     <div class="container">
 
-      <h1 class="title">Home Page!</h1>
+      <h1 class="title">Test Home Page!</h1>
 
     </div>
     </div>
